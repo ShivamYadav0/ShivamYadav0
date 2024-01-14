@@ -12,7 +12,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ShivamYadav0](https://github.com/ShivamYadav0)
 
 - 📫 How to reach me **[https://ShivamYadav0.netlify.app](https://shivamyadav0.netlify.app/)/**
-  
+
+- 🔥 Checkout my  DSA problem solution with detailed explanation here [leetcode.com/problems/minimum-swaps-to-make-strings-equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/discuss/4564843/Unique-Intuitive-solution-or-O(n2)-to-O(n)-optimised-with-detailed-explanation.).
+
 - 😄 Pronouns: Shyren
   
 - ⚡ &nbsp;Fun fact: I :heart: Anime .
