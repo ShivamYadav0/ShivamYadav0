@@ -50,11 +50,11 @@ I create most of my open-source projects to solve the challenges I encounter in 
 
 <div style="display: flex; width: 100%;">
     <div >
-        <img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=ShivamYadav0&show_icons=true&locale=en&theme=dark" alt="ShivamYadav0" />
+        <img width="350" align="left" src="https://github-readme-stats.vercel.app/api?username=ShivamYadav0&show_icons=true&locale=en&theme=dark" alt="ShivamYadav0" />
     </div>
     <div  >
         <a href="https://git.io/streak-stats" target="_blank">
-            <img width="450" src="https://streak-stats.demolab.com/?user=ShivamYadav0&theme=dark" alt="GitHub Streak" />
+            <img width="350" src="https://streak-stats.demolab.com/?user=ShivamYadav0&theme=dark" alt="GitHub Streak" />
         </a>
     </div>
 </div>
