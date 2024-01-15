@@ -50,15 +50,15 @@ I create most of my open-source projects to solve the challenges I encounter in 
 
 <div style="display: flex; width: 100%;">
     <div >
-        <img width="350" align="left" src="https://github-readme-stats.vercel.app/api?username=ShivamYadav0&show_icons=true&locale=en&theme=dark" alt="ShivamYadav0" />
+        <img width="380" align="left" src="https://github-readme-stats.vercel.app/api?username=ShivamYadav0&show_icons=true&locale=en&theme=dark" alt="ShivamYadav0" />
     </div>
     <div  >
         <a href="https://git.io/streak-stats" target="_blank">
-            <img width="350" src="https://streak-stats.demolab.com/?user=ShivamYadav0&theme=dark" alt="GitHub Streak" />
+            <img width="380" src="https://streak-stats.demolab.com/?user=ShivamYadav0&theme=dark" alt="GitHub Streak" />
         </a>
     </div>
 </div>
-  
+  <br/>
 [![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivamYadav0&theme=github-compact)](https://github.com/ShivamYadav0/github-readme-activity-graph)
 
 
