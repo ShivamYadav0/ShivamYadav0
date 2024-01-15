@@ -15,7 +15,7 @@
 
 - 🔥 Checkout my  DSA problem solution with detailed explanation here [leetcode.com/problems/minimum-swaps-to-make-strings-equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/discuss/4564843/Unique-Intuitive-solution-or-O(n2)-to-O(n)-optimised-with-detailed-explanation.).
 
-- 😄 Pronouns: Shyren
+- 😄 Pronouns: Shyren.
   
 - ⚡ &nbsp;Fun fact: I :heart: Anime .
 
