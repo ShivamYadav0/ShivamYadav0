@@ -57,7 +57,7 @@ I create most of my open-source projects to solve the challenges I encounter in 
           
 <img width="390" src="https://streak-stats.demolab.com/?user=ShivamYadav0&theme=dark" alt="GitHub Streak" />
             
-        </a>
+ </a>
     </div>
 </div>
 
