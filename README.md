@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
-<h3 align="center">A enthusiastic and passionate MERN Stack Web Developer from India</h3>
+<h3 align="center">An enthusiastic and passionate MERN Stack Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShivamYadav0&label=Profile%20views&color=0e75b6&style=flat" alt="ShivamYadav0" /> </p>
 ### Hi there <a href="https://www.ShivamYadav0.com/">
