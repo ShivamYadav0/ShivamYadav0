@@ -48,13 +48,15 @@ I create most of my open-source projects to solve the challenges I encounter in 
 <p> <a> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivamYadav0&show_icons=true&locale=en&layout=compact&theme=dark" alt="ShivamYadav0" target="_blank" /></a></p>
 </div>
 
-<div style="display: flex; width: 100%;">
+<div >
     <div >
         <img width="390" align="left" src="https://github-readme-stats.vercel.app/api?username=ShivamYadav0&show_icons=true&locale=en&theme=dark" alt="ShivamYadav0" />
     </div>
     <div  >
         <a href="https://git.io/streak-stats" target="_blank">
-            <img width="390" src="https://streak-stats.demolab.com/?user=ShivamYadav0&theme=dark" alt="GitHub Streak" />
+          
+<img width="390" src="https://streak-stats.demolab.com/?user=ShivamYadav0&theme=dark" alt="GitHub Streak" />
+            
         </a>
     </div>
 </div>
