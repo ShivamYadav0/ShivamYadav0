@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **[https://ShivamYadav0.netlify.app](https://shivamyadav0.netlify.app/)/**
 
-- 🔥 Checkout my  DSA problem solution with detailed explanation here [problems/divide-an-array-into-subarrays-with-minimum-cost-ii](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/discuss/4603365/100-fasteroror-c++-oror-easy-solution-oror-set-+-sliding-window)).
+- 🔥 Checkout my  DSA problem solution with detailed explanation here [problems/divide-an-array-into-subarrays-with-minimum-cost-ii](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/discuss/4603365/100-fasteroror-c++-oror-easy-solution-oror-set-+-sliding-window).
 
 - 😄 Pronouns: Shyren.
   
