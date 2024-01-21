@@ -32,6 +32,7 @@ I create most of my open-source projects to solve the challenges I encounter in 
 - Worked as MERN Stack developer at 2 companies.
 - DSA enthusiast and love doing competitive programming.
 - Knight on leetcode with 700+ question solved.
+- On the Road to become EXPERT on codeforces.
 - Participated in Several Hackathons and events.
 
 
