@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **[https://ShivamYadav0.netlify.app](https://shivamyadav0.netlify.app/)/**
 
-- 🔥 Checkout my  DSA problem solution with detailed explanation here [leetcode.com/problems/minimum-swaps-to-make-strings-equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/discuss/4564843/Unique-Intuitive-solution-or-O(n2)-to-O(n)-optimised-with-detailed-explanation.).
+- 🔥 Checkout my  DSA problem solution with detailed explanation here [problems/divide-an-array-into-subarrays-with-minimum-cost-ii](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/discuss/4603365/100-fasteroror-c++-oror-easy-solution-oror-set-+-sliding-window)).
 
 - 😄 Pronouns: Shyren.
   
