@@ -6,7 +6,7 @@
 ### Hi there <a href="https://www.ShivamYadav0.com/">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>This is the place where I opensource stuff and build awesome things.
 
-- 🔭 I’m currently working on [Ecommerce website]()
+- 🔭 I’m have done 2 internships on web development [Ecommerce website](https://business.cappsule.co.in/)
 
 - 🌱 I’m currently learning **Next.js** and **AI/ML**
 
