@@ -1,46 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
-<h3 align="center">An enthusiastic and passionate MERN Stack Web Developer from India</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShivamYadav0&label=Profile%20views&color=0e75b6&style=flat" alt="ShivamYadav0" /> </p>
-### Hi there <a href="https://www.ShivamYadav0.com/">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>This is the place where I opensource stuff and build awesome things.
-
-- 🔭 I’m have done 2 internships on web development [Ecommerce website](https://business.cappsule.co.in/)
-
-- 🌱 I’m currently learning **Next.js** and **AI/ML**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ShivamYadav0](https://github.com/ShivamYadav0)
-
-- 📫 How to reach me **[https://ShivamYadav0.netlify.app](https://shivamyadav0.netlify.app/)/**
-
-- 🔥 Checkout my  DSA problem solution with detailed explanation here [problems/divide-an-array-into-subarrays-with-minimum-cost-ii](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/discuss/4603365/100-fasteroror-c++-oror-easy-solution-oror-set-+-sliding-window).
-
-- 😄 Pronouns: Shyren.
-  
-- ⚡ &nbsp;Fun fact: I :heart: Anime .
-
-### ✨&nbsp; About Me
-
-I am a Full Stack Developer with 1+ years of experience in developing enterprise applications and open-source software.
-You can read more about me and my open source journey at my website: [[https://www.ShivamYadav0.com/](https://shivamyadav0.netlify.app/)]
-
-I create most of my open-source projects to solve the challenges I encounter in life, with many more still waiting to be addressed. I am embarking on a quest to find solutions for each one, one problem at a time.
-
-#### Awards and Achievements
-- Won the Smart India Hackathon -2023  
-- Worked as MERN Stack developer at 2 companies.
-- DSA enthusiast and love doing competitive programming.
-- Knight on leetcode with 700+ question solved.
-- On the Road to become EXPERT on codeforces.
-- Participated in Several Hackathons and events.
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://codeforces.com/profile/Shyren" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Shyren" height="30" width="40" target="_blank" /></a><a href="https://leetcode.com/Eren_s/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Eren_s" height="30" width="40" target="_blank"/></a> 
-<a href="https://codepen.io/ShivamYadav0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ShivamYadav0" height="30" width="40" target="_blank"/></a><a href="https://twitter.com/ShivamY72743000" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShivamY72743000" height="30" width="40" target="_blank" /></a><a href="https://www.linkedin.com/in/shivam-yadav-3994a8226/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-yadav-3994a8226" height="30" width="40" target="_blank" /></a><a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" target="_blank"/></a>
-</p>
 <h3 align="left">Languages and Tools:</h3
                                        
 <div>
