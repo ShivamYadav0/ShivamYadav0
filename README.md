@@ -11,14 +11,13 @@
 <div >
     <div >
         <img width="390" align="left" src="https://github-readme-stats.vercel.app/api?username=ShivamYadav0&show_icons=true&locale=en&theme=dark" alt="ShivamYadav0" />
-    </div>
-    <div  >
-        <a href="https://git.io/streak-stats" target="_blank">
+       <a href="https://git.io/streak-stats" target="_blank">
           
 <img width="390" src="https://streak-stats.demolab.com/?user=ShivamYadav0&theme=dark" alt="GitHub Streak" />
             
  </a>
     </div>
+   
 </div>
 
   <br/>
