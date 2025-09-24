@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShivamYadav0](https://github.com/ShivamYadav0)
 
-- 📫 How to reach me **[https://ShivamYadav0.netlify.app](https://shivamyadav0.netlify.app/)/**
+- 📫 How to reach me **[https://ShivamYadav01.netlify.app](https://shivamyadav01.netlify.app/)/**
 
 - 🔥 Checkout my  DSA problem solution with detailed explanation here [problems/divide-an-array-into-subarrays-with-minimum-cost-ii](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/discuss/4603365/100-fasteroror-c++-oror-easy-solution-oror-set-+-sliding-window).
 
