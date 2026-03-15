@@ -8,7 +8,7 @@
   <a href="https://leetcode.com/Eren_s/"><img src="https://img.shields.io/badge/LeetCode-Knight_🏆-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://codeforces.com/profile/Shyren"><img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://shivamyadav01.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=netlify" /></a>
-  <a href="https://medium.com/@shivamyadav0"><img src="https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium" /></a>
+  <a href="https://medium.com/@devverse001"><img src="https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium" /></a>
 </p>
 
 ---
@@ -23,7 +23,7 @@
 - 🤖 Built **Smart Retail OS** — an AI-powered Kirana OS with Hindi voice assistant using LangChain + Gemini
 - 🛠️ Built a **Job Scout CLI** in Golang for scraping and filtering job listings from the terminal
 - 📐 Currently deep-diving into **System Design (LLD/HLD)**, **Golang**, and **Agentic AI / LLMs**
-- ✍️ Writing engineering insights on **[Medium](https://medium.com/@shivamyadav0)**
+- ✍️ Writing engineering insights on **[Medium](https://medium.com/@devverse001)**
 - 🧩 **1000+ DSA problems** solved — LeetCode Knight (Top 3%) · Codeforces Specialist
 - 📍 Based in Bangalore, India
 
@@ -119,7 +119,7 @@
 ## 📝 Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-> ✍️ I write about system design, backend engineering, and Go on **[Medium](https://medium.com/@shivamyadav0)** — check it out!
+> ✍️ I write about system design, backend engineering, and Go on **[Medium](https://medium.com/@devverse001)** — check it out!
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -129,7 +129,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shivam-yadav-3994a8226/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://twitter.com/ShivamY72743000" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://medium.com/@shivamyadav0" target="_blank"><img src="https://img.shields.io/badge/Medium-Read-black?style=for-the-badge&logo=medium" /></a>
+  <a href="https://medium.com/@devverse001" target="_blank"><img src="https://img.shields.io/badge/Medium-Read-black?style=for-the-badge&logo=medium" /></a>
   <a href="https://shivamyadav01.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify" /></a>
   <a href="mailto:shivam.yadav98939294@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
