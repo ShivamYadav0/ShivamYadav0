@@ -31,14 +31,14 @@
 
 ## 🚀 What I've Built & Shipped
 
-### 🔥 [Smart Retail OS — AI-Powered Kirana Operating System](https://github.com/ShivamYadav0)
+### 🔥 [Smart Retail OS — AI-Powered Kirana Management System](https://smart-retail.up.railway.app/en/login)
 > `Next.js` · `NestJS` · `PostgreSQL` · `LangChain` · `Gemini LLM` · `Docker`
 
 - Hindi-first AI voice/chat assistant answering live sales, inventory & profit queries
 - Secure JWT + RBAC backend, optimized REST APIs, rate-limited AI endpoints
 - Real-time inventory dashboard, low-stock alerts, mobile-first UI — Dockerized & deployed
 
-### 🖥️ [Job Scout CLI — Terminal Job Finder in Golang](https://github.com/ShivamYadav0)
+### 🖥️ [Job Scout CLI — Terminal Job Finder in Golang](https://github.com/ShivamYadav0/golang-job-scout/tree/main/version3)
 > `Golang` · `CLI` · `Web Scraping`
 
 - Lightweight CLI tool to search, filter, and track job listings directly from your terminal
@@ -80,6 +80,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Superset](https://img.shields.io/badge/Apache%20Superset-3366CC?style=flat-square&logo=apache-superset&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ---
 
@@ -107,7 +109,7 @@
 | Platform | Rating / Rank | Problems Solved |
 |---|---|---|
 | 🟨 LeetCode | **Knight** (Top 3%) | 1000+ |
-| 🔵 Codeforces | **Specialist** | Active |
+| 🔵 Codeforces | **Specialist** (Max 1545)  | 550+ |
 | 🏆 Smart India Hackathon | **Winner 2023** | — |
 
 📌 Favourite problem I'm proud of: [Divide Array into Subarrays with Min Cost II — 100% faster solution](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/discuss/4603365/100-fasteroror-c++-oror-easy-solution-oror-set-+-sliding-window)
