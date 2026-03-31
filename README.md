@@ -24,7 +24,7 @@
 - 🛠️ Built a **Job Scout CLI** in Golang for scraping and filtering job listings from the terminal
 - 📐 Currently deep-diving into **System Design (LLD/HLD)**, **Golang**, and **Agentic AI / LLMs**
 - ✍️ Writing engineering insights on **[Medium](https://medium.com/@devverse001)**
-- 🧩 **1100+ DSA problems** solved — LeetCode Knight (Top 2%) · Codeforces Specialist
+- 🧩 **1100+ DSA problems** solved — LeetCode Knight (Top 2%) · Codeforces Expert
 - 📍 Based in Bangalore, India
 
 ---
