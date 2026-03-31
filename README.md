@@ -38,6 +38,16 @@
 - Secure JWT + RBAC backend, optimized REST APIs, rate-limited AI endpoints
 - Real-time inventory dashboard, low-stock alerts, mobile-first UI — Dockerized & deployed
 
+### 🛰️ [GoCDC: Real-Time Network Availability Engine](https://github.com/ShivamYadav0/gocdc)
+> `Golang` · `Debezium` · `Grafana` · `Kafka` · `Redis` · `Clickhouse` 
+
+- A high-performance, scalable observability pipeline for real-time network monitoring and availability tracking.
+- Built with Go, this system simulates network events, captures changes via CDC, and provides deep analytics.
+- Real-Time CDC: Leverages Debezium to capture MySQL changes and stream them to Kafka without polling overhead.
+- Stateful Processing: Tracks real-time node states in Redis for pinpoint accurate uptime calculations.
+- Analytical Storage: Offloads downtime intervals to ClickHouse for lightning-fast SQL queries and SLA reporting.
+- Comprehensive Monitoring: Fully integrated with Prometheus metrics and Grafana dashboards for full-stack observability
+
 ### 🖥️ [Job Scout CLI — Terminal Job Finder in Golang](https://github.com/ShivamYadav0/golang-job-scout/tree/main/version3)
 > `Golang` · `CLI` · `Web Scraping`
 
