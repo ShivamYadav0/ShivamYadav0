@@ -119,7 +119,7 @@
 | Platform | Rating / Rank | Problems Solved |
 |---|---|---|
 | 🟨 LeetCode | **Knight** (Top 2%) | 1100+ |
-| 🔵 Codeforces | **Specialist** (Max 1545)  | 550+ |
+| 🔵 Codeforces | **Expert** (Max 1614)  | 550+ |
 | 🏆 Smart India Hackathon | **Winner 2023** | — |
 
 📌 Favourite problem I'm proud of: [Divide Array into Subarrays with Min Cost II — 100% faster solution](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/discuss/4603365/100-fasteroror-c++-oror-easy-solution-oror-set-+-sliding-window)
