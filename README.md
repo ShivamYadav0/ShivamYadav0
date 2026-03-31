@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=ShivamYadav0&label=Profile+Views&color=00b4d8&style=for-the-badge" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/shivam-yadav-3994a8226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/Eren_s/"><img src="https://img.shields.io/badge/LeetCode-Knight_🏆-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/Shyren"><img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/Shyren"><img src="https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://shivamyadav01.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=netlify" /></a>
   <a href="https://medium.com/@devverse001"><img src="https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium" /></a>
 </p>
